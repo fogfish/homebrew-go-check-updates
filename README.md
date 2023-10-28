@@ -1,2 +1,3 @@
-# homebrew-go-check-updates
-homebrew tap for go-check-updates
+# homebrew-tap
+
+homebrew tap(s) for fogfish utilities 
